@@ -1,6 +1,10 @@
 team: Biber
 
+<<<<<<< HEAD
 manager: babo
+=======
+manager: dulli
+>>>>>>> 0e607e5 (commit ins)
 
 member:
 - uba
